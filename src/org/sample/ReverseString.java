@@ -21,6 +21,11 @@ public class ReverseString {
 
 	}
 
+	private void stuGender() {
+		System.out.println("male");
+
+	}
+
 	public static void main(String[] args) {
 		String s1 = "vinoth";
 		String s2 = "";
