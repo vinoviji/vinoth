@@ -1,6 +1,11 @@
 package org.sample;
+ 
 
 public class ReverseString {
+	private void stuName() {
+		System.out.println("vinoth");
+
+	}
 	public static void main(String[] args) {
 		String s1="vinoth";
 		String s2="";
