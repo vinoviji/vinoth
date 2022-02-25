@@ -5,8 +5,14 @@ public class ReverseString {
 		System.out.println("vinoth");
 
 	}
+
 	private void stuId() {
 		System.out.println("822714105045");
+
+	}
+
+	private void stuAdd() {
+		System.out.println("no 15 south street,periyavalayam");
 
 	}
 
