@@ -16,6 +16,11 @@ public class ReverseString {
 
 	}
 
+	private void stuDOB() {
+		System.out.println("20/04/1997");
+
+	}
+
 	public static void main(String[] args) {
 		String s1 = "vinoth";
 		String s2 = "";
